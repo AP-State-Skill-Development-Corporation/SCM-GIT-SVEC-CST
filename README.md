@@ -3,7 +3,7 @@ This is the first repository created for sharing training materials for CST stud
 
 ## [Registration Link](https://forms.gle/28Sh1wpzb7xM3PZi6)
 
-## [Student Developer Pack](https://education.github.com/)
+### [Student Developer Pack](https://education.github.com/)
 
 ## Softwares Download
 
